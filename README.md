@@ -211,9 +211,17 @@
 
 
 ## 产品发布提交
+
 | 平台 | 备注 |
 | --- | --- |
 | [Product Hunt](https://www.producthunt.com/) | 新产品主打阵地，发布后其他导航站回来爬取，首选发布地 |
 | [Hacker News](https://news.ycombinator.com/) | 发布注意要写软文，否则容易被删帖 |
 | [PoweredByAI](https://poweredbyai.app/) | 免费提交产品 |
 | [Pinterest](https://www.pinterest.com) | 发布视频频道也会被Google收录（免费）|
+
+## IP查询分析工具
+
+| 平台 | 备注 |
+| --- | --- |
+| [IP138查询网](https://site.ip138.com/) | 比较知名用的人也多（免费） |
+| [站长之家](https://tool.chinaz.com/) | 老牌站长工具（免费） |
